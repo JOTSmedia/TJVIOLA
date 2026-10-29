@@ -1,0 +1,95 @@
+{
+  "roland_ax_synth_black": {
+    "model": "Roland AX-Synth Black Sparkle",
+    "keys": 49,
+    "dimensions_mm": {
+      "width": 1142,
+      "depth": 266,
+      "height": 87
+    },
+    "sources": [
+      "https://www.roland.com/us/products/ax-synth/",
+      "https://www.roland.com/us/company/press_releases/2010/1113/"
+    ],
+    "images": {
+      "top": "https://static.roland.com/assets/images/products/gallery/ax-synth-bk_top_gal.jpg",
+      "angle": "https://static.roland.com/assets/images/products/gallery/ax-synth-bk_angle_gal.jpg",
+      "handle": "https://static.roland.com/assets/images/products/gallery/ax-synth-bk_handle_gal.jpg"
+    },
+    "appearance_notes": "Glossy glass-particle black sparkle sculpted rounded keytar; long tapered left handle; deep crescent cutout beneath handle where it joins keyboard body; raised lip around keybed; sweeping lower body, not straight rectangular and not angular AX-Edge. Large italic AX-Synth and Roland text at upper-right when viewed in playable orientation; keys are beneath main panel. Slim red three-character 7-segment display toward panel left/center; row of bank buttons; neck ribbon, modulation bar, D Beam, two rotary controls. Official top product photo stored upside down relative to standard playable layout; rotate mentally."
+  },
+  "roland_fantom_8": {
+    "model": "Roland FANTOM 8 (2019, original FANTOM series)",
+    "keys": 88,
+    "dimensions_mm": {
+      "width": 1432,
+      "depth": 439,
+      "height": 153
+    },
+    "source": "https://www.roland.com/global/products/fantom_8/",
+    "images": {
+      "top": "https://static.roland.com/assets/images/products/gallery/fantom_8_top_gal.jpg",
+      "angle": "https://static.roland.com/assets/images/products/gallery/fantom_8_angle_gal.jpg",
+      "side": "https://static.roland.com/assets/images/products/gallery/fantom_8_side_gal.jpg"
+    },
+    "appearance_notes": "Large black/charcoal workstation, dark red side/rear accent, sloping console. Logo Roland/FANTOM upper-left. Pair of wheels far upper-left plus pitch/mod lever lower-left beside keys. Eight vertical faders with LED meters and eight knobs/zone buttons to left of center screen. Center seven-inch color touchscreen, six cyan-ring knobs below it, large encoder to screen right. Synth knob cluster with cyan rings right of screen; far-right 4x4 pads with magenta outlines. Horizontal row of 16 gray category buttons beneath synth/pad section. FANTOM 8 has 88-key A0-C8 range (52 white/36 black). Not FANTOM-08 or FANTOM 8 EX."
+  },
+  "roland_d50": {
+    "model": "Roland D-50 (original 1987)",
+    "keys": 61,
+    "dimensions_mm": {
+      "width": 974,
+      "depth": 332,
+      "height": 94
+    },
+    "sources": [
+      "https://support.roland.com/hc/en-us/articles/201966399-D-50-Technical-Specifications",
+      "https://www.roland.com/global/promos/d-50_30th_anniversary/",
+      "https://cdn.roland.com/assets/media/pdf/D-50_QS.pdf"
+    ],
+    "images": {
+      "whole": "https://static.roland.com/promos/d-50_30th_anniversary/features/images/d-50_hero.jpg",
+      "left_center": "https://static.roland.com/promos/d-50_30th_anniversary/features/images/d-50_gallery01.jpg",
+      "right": "https://static.roland.com/promos/d-50_30th_anniversary/features/images/d-50_gallery02.jpg"
+    },
+    "appearance_notes": "Matte charcoal low wedge; pale blue Roland D-50 Linear Synthesizer logo at upper left. Fine parallel horizontal ribs along rear edge. Joystick in square recess center-left; narrow yellow-green two-line LCD center with gray rectangular controls below/around. White line synthesis structure diagrams occupy right-most top panel third, numeric keypad just left of diagrams. Two vertical sliders and pitch bender lower-left beside keys. Keyboard 61 keys C-C (36 white/25 black). d50-page-03.png is authentic manual front-panel layout rotated 90 degrees in scan. Do not use d50-article-photo.png: unrelated portrait."
+  },
+  "roland_jupiter8": {
+    "model": "Roland JUPITER-8 (original 1981)",
+    "keys": 61,
+    "dimensions_mm": {
+      "width": 1063,
+      "depth": 485,
+      "height": 120
+    },
+    "sources": [
+      "https://support.roland.com/hc/en-us/articles/201945109-JUPITER-8-Technical-Specifications",
+      "https://www.roland.com/us/community/roland_users_group/1532/",
+      "https://www.roland.com/us/products/rc_jupiter-8/"
+    ],
+    "images": {
+      "whole_front": "https://static.roland.com/us/images/articles/roland_users_group/2012-06-21_beyond_retro/jupiter-8.jpg",
+      "angle_photo": "https://static.roland.com/products/rc_jupiter-8/images/Why-Is-It-So-Special.jpg",
+      "original_brochure": "https://static.roland.com/products/rc_jupiter-8/images/King-sized-sound.jpg"
+    },
+    "appearance_notes": "Wide/deep classic analog synth, metal silver end cheeks, black/dark gray sloped control console, rear ventilation slots. Orange section title strips across upper panel grouping LFO, VCO Modulator, VCO1, VCO2, HPF, VCF, VCA, ENV1, ENV2. Dense black knobs/sliders. Distinctive horizontal square button row immediately above keybed in orange/yellow/white/green/blue groups; centered red four-digit display. Huge pale silver JUPITER-8 upper RIGHT, Roland upper LEFT. Left control area beside keybed with pitch bender and modulation sliders/knobs. Original has no large LCD or modern pads. 61 keys C-C (36 white/25 black)."
+  },
+  "yamaha_dx7": {
+    "model": "Yamaha DX7 (original 1983 Mk I)",
+    "keys": 61,
+    "dimensions_mm": {
+      "width": 1018,
+      "depth": 329,
+      "height": 102
+    },
+    "sources": [
+      "https://usa.yamaha.com/products/contents/music_production/synth_chronology/modal/modal_dx7.html",
+      "https://usa.yamaha.com/products/contents/music_production/synth_50th/chronology/index01.html"
+    ],
+    "images": {
+      "whole_front": "https://usa.yamaha.com/files/b_1983-1_DX7_0a198f51bf1901ecb2b9d27cac642490.jpg"
+    },
+    "catalog_pdf": "https://download.yamaha.com/files/tcm:39-331941",
+    "appearance_notes": "Dark brown/charcoal flat sloping rectangle with black end cheeks. White/gray YAMAHA DX7 logo upper LEFT. Printed white FM algorithm diagrams across upper-right strip. Distinctive two long rows of flat turquoise/teal membrane buttons center-right; small colored utility button groups to left; narrow olive LCD and red numeric LED to its left at center-left. Two vertical sliders top-left panel. Pair of black pitch/modulation wheels lower-left beside keyboard. 61 keys C-C (36 white/25 black). Original Mk I not DX7II, DX7S or DX7IID."
+  }
+}

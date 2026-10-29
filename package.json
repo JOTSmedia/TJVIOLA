@@ -1,0 +1,10 @@
+{
+  "name": "tj-viola-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m http.server 5173",
+    "check": "node --check app.js && node --check keyboard.js && node --check atmosphere.js && node --check idle-scroll.js && node --check navigation.js"
+  }
+}
